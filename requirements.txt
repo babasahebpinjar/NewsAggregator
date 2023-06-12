@@ -1,0 +1,7 @@
+flask-cors
+fastapi
+tqdm
+transformers
+uvicorn
+pandas
+numpy
